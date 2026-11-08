@@ -10,12 +10,18 @@ En [mi portfolio de demos](https://github.com/agustincastillo5822-coder/portfoli
 - **APIs y automatización:** valido solicitudes, persisto datos en SQLite y evito duplicados mediante claves de idempotencia.
 - **Verificación documental:** calculo y comparo huellas SHA-256 con procesamiento local de archivos.
 
+- **Datos e integraciones:** valido archivos CSV y resumo resultados con importes enteros.
+- **Webhooks:** verifico firmas HMAC y controlo ventanas temporales y repetición.
+- **Workflows:** modelo estados, cancelaciones y reintentos acotados.
+
+Reúno estos últimos ejemplos en [mi laboratorio de integraciones](https://github.com/agustincastillo5822-coder/portfolio-demos/tree/main/integration-lab).
+
 ## Mis proyectos
 
 - [Capa Cero](https://capacero.ar/)
 - [Nodo Sur Chain](https://nodosurchain.ar/)
 - [Estudio Devrim](https://estudiodevrim.com.ar/): presento el desarrollo web acreditado a Capa Cero, con dirección creativa de Amira Mendoza Yapur.
-- [LiliReflex](https://lilireflex.capacero.ar/): comparto mi fork y su [código público](https://github.com/capacerostackstudio/lilireflex), con atribución al proyecto original.
+- [LiliReflex](https://lilireflex.capacero.ar/): presento mi trabajo sobre un fork, con atribución al proyecto original.
 
 ## Cómo trabajo
 
